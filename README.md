@@ -10,7 +10,7 @@ An interactive dashboard for exploring credit card fraud across 100,000 transact
   </a>
 </p>
 
-![Dashboard screenshot](screenshot.png)
+![Dashboard screenshot](Dashboard_screenshot.png)
 
 ## Features
 
