@@ -2,10 +2,10 @@
 
 An interactive dashboard for exploring credit card fraud across 100,000 transactions from 2026. Filter the data, explore where and when fraud happens, and export the flagged cases.
 
-## 🌐Check out the demo
+## 🌐 Check out the demo
 
 <p align="center">
-  <a href="[https://card-fraud-monitoring-dashboard.streamlit.app/]/" target="_blank">
+  <a href="https://card-fraud-monitoring-dashboard.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
