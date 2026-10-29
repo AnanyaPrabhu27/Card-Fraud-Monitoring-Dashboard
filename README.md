@@ -27,17 +27,6 @@ An interactive dashboard for exploring credit card fraud across 100,000 transact
 - **Card-not-present** fraud is the most common type
 - Overall, **2.06%** of transactions are fraudulent, with about **$280K** lost out of $12.7M in volume
 
-## Run it locally
-
-```bash
-git clone https://github.com/AnanyaPrabhu27/REPO-NAME.git
-cd REPO-NAME
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-Then open `http://localhost:8501`.
-
 ## Project structure
 
 ```
@@ -59,4 +48,4 @@ Python · pandas · Streamlit · Plotly
 
 ## Author
 
-**Ananya Prabhu**, data engineer · [GitHub](https://github.com/AnanyaPrabhu27)
+**Ananya Prabhu**
